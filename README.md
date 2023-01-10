@@ -30,3 +30,28 @@ SECCIÓN 11–1 La forma de onda sinusoidal
 
 ![image](https://user-images.githubusercontent.com/117920423/211463023-898c2e90-99a8-4db1-a11d-01dae1f2938d.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
