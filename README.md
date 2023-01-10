@@ -26,3 +26,7 @@ SECCIÓN 11–1 La forma de onda sinusoidal
 
 ![image](https://user-images.githubusercontent.com/117920423/211461825-5e31bbd6-5d55-41b9-887e-a5ac3df73495.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211462819-3bda7df2-f1f5-4603-862b-888a8e332e88.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211463023-898c2e90-99a8-4db1-a11d-01dae1f2938d.png)
+
