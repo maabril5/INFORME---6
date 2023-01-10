@@ -140,14 +140,39 @@ SECCIÓN 12-5  Capacitores en circuitos de cd
 
 ![image](https://user-images.githubusercontent.com/117920423/211675697-fb41ccbf-bf24-42de-993a-349a0bd154ba.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211676173-5b067f77-01d1-4d90-b60b-b71388f18b75.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211676432-62803b27-35f3-421d-8b35-96c06dae0d8a.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211676471-d5354ad6-e395-4395-a179-5092f1c48e94.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211676516-99ed5e30-c0d5-4e9e-927a-8a7770822993.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211676557-0af582e3-8a70-47d6-9b91-68f8a564eef4.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211676642-656dc04f-57d0-4d8b-9c0a-bcac3399a271.png)
 
+SECCIÓN 12-6  Capacitores en circuitos de ca
 
+![image](https://user-images.githubusercontent.com/117920423/211676909-6a512304-e09c-48d2-8135-ad2c94fc7845.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211676975-d35a1da5-2648-4b7a-9c20-948ba357a21a.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211677022-558dd4d6-1e2e-4d20-9d95-ee1d03a14133.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211677059-dfd650eb-48cc-4364-9d98-db926a3b3cbe.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211677133-707a4cff-bc1c-40d6-8e78-3509253644d1.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211677187-c7e7c59f-55e5-4235-91c6-7eb921985096.png)
+
+SECCIÓN 12-7  Aplicaciones de los capacitores
+
+![image](https://user-images.githubusercontent.com/117920423/211677390-4911d128-6674-4698-a153-842da45a40d9.png)
+
+SECCIÓN 12-8  Circuitos de Capacitor conmutado
+
+![image](https://user-images.githubusercontent.com/117920423/211677519-18f22a82-765e-4853-8c21-66f20672723d.png)
 
 
 
