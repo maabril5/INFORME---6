@@ -136,7 +136,9 @@ SECCIÓN 12–4 Capacitores en paralelo
 
 ![image](https://user-images.githubusercontent.com/117920423/211674691-1d7d729c-5347-4b5b-a21f-950d0cdbc789.png)
 
-![image](https://user-images.githubusercontent.com/117920423/211674838-c2e4e423-a489-4004-9b89-871f4ddd148f.png)
+SECCIÓN 12-5  Capacitores en circuitos de cd
+
+![image](https://user-images.githubusercontent.com/117920423/211675697-fb41ccbf-bf24-42de-993a-349a0bd154ba.png)
 
 
 
