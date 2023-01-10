@@ -19,3 +19,10 @@ Haber entendido los conceptos presentados en el capítulo 11 y 12 referente a la
 3. EJERCICIOS DE APRENDIZAJE.
 
 CAPÍTULO 11.
+
+SECCIÓN 11–1 La forma de onda sinusoidal
+
+![image](https://user-images.githubusercontent.com/117920423/211461146-81057561-fbad-4eda-86b7-e0e571cffec6.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211461825-5e31bbd6-5d55-41b9-887e-a5ac3df73495.png)
+
