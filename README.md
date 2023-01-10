@@ -92,6 +92,60 @@ SECCIÓN 11–10 El osciloscopio
 
 ![image](https://user-images.githubusercontent.com/117920423/211672991-e00ed60f-c332-4a52-b343-329ee6ee7f0c.png)
 
+CAPÍTULO 12.
+
+SECCIÓN 12–1 El capacitor básico
+
+![image](https://user-images.githubusercontent.com/117920423/211673486-2461f7ba-51f6-4b7f-b3c2-1b5535bdc5bf.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211673564-25e00eca-6a71-436b-b8c4-862b093bc6ae.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211673629-8d3aeb85-c227-40c1-b844-f80ecb81c90f.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211673656-c94ae74a-8587-481a-83cc-38cb8ee6c5ed.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211673712-59b1bac2-1bcc-4bea-b22c-732cc138b254.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211673785-7fb24ceb-ecc9-4566-ac7b-4550f34a21dc.png)
+
+SECCIÓN 12–2 Tipos de capacitores
+
+![image](https://user-images.githubusercontent.com/117920423/211673882-0d179aa0-16df-4ea1-afb7-6a742482e332.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211673923-5a058887-ae9e-45e9-8b28-01062c102a4f.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211674007-6cf78c4f-4fed-427a-ac20-ffe123dc58ad.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211674040-3f887263-1b95-4f09-9560-ec639c3635b9.png)
+
+SECCIÓN 12–3 Capacitores en serie
+
+![image](https://user-images.githubusercontent.com/117920423/211674159-93851e1d-8775-4511-9d4a-7d4336c38f0f.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211674260-26677bad-707c-43b7-803b-eaf2f14e9df9.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211674331-30d35bf7-dfc3-42fc-aeec-ba0d64b263e3.png)
+
+SECCIÓN 12–4 Capacitores en paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/211674440-91e9f1af-4076-417b-8a69-dbead771ce9c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211674547-e857e4c0-e644-4580-8beb-e6958600e583.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211674625-cdde4b67-a848-4865-950f-513df17bc090.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211674691-1d7d729c-5347-4b5b-a21f-950d0cdbc789.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211674838-c2e4e423-a489-4004-9b89-871f4ddd148f.png)
+
+
+
+
+
+
+
+
+
 
 
 
