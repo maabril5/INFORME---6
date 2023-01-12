@@ -34,6 +34,8 @@ SECCIÓN 11–2 Fuentes de voltaje sinusoidal
 
 ![image](https://user-images.githubusercontent.com/117920423/211668390-84b3211e-5dbd-4a5d-8f63-10239f0c2c9c.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211948288-28e28fbf-8c4a-438c-9f36-51332564548b.png)
+
 SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente
 
 ![image](https://user-images.githubusercontent.com/117920423/211668665-2e6156b5-ba98-4d9e-a5e8-542efdae4595.png)
