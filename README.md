@@ -40,7 +40,11 @@ SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente
 
 ![image](https://user-images.githubusercontent.com/117920423/211668665-2e6156b5-ba98-4d9e-a5e8-542efdae4595.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211948517-bbdc2a0f-aa08-4e3e-8ad3-f1a36e35da85.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211669061-529d596f-d34c-4aab-aef5-9ab7a8019732.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211974786-7358278a-9b2e-492e-9a26-263def7fa06a.png)
 
 SECCIÓN 11–4 Medición angular de una onda seno
 
