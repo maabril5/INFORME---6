@@ -180,6 +180,7 @@ SECCIÓN 12–2 Tipos de capacitores
 
 ![image](https://user-images.githubusercontent.com/117920423/211674040-3f887263-1b95-4f09-9560-ec639c3635b9.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211982208-c6d6fc42-84c0-416c-a900-0ef220de592c.png)
 
 SECCIÓN 12–3 Capacitores en serie
 
