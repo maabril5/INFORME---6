@@ -60,9 +60,17 @@ SECCIÓN 11–5 La fórmula de la onda seno
 
 ![image](https://user-images.githubusercontent.com/117920423/211670867-22891426-67b2-496d-b5af-67a5d1d060c7.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211975165-9d04bdeb-bd10-418d-b980-9089a2cc1f8b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211975202-4ca78fb7-0137-4b03-8b95-6683c6f66695.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211670914-ccb815b0-5f5e-4be6-98d5-d2d06b3ad945.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211975245-92d9f8ad-1931-4814-8b19-54621b6c8a9b.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211670953-8038c8af-8a98-43b4-a817-5603f5d44268.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211975317-cf241538-dc8e-4c9d-a1a8-9a33b49d4b30.png)
 
 SECCIÓN 11–6 Introducción a los fasores
 
