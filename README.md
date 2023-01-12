@@ -102,21 +102,31 @@ SECCIÓN 11–8 Voltajes superpuestos de cd y de ca
 
 ![image](https://user-images.githubusercontent.com/117920423/211671948-42c962a6-39a9-42c0-a16a-6ae1632ece68.png)
 
-![image](https://user-images.githubusercontent.com/117920423/211977519-a57d1fcf-d3b5-46ed-8056-ad6be3590636.png)
+![image](https://user-images.githubusercontent.com/117920423/211978178-ab8402b5-95ac-4f61-b87f-fee91a1d5134.png)
 
 SECCIÓN 11–9 Formas de onda no sinusoidales
 
 ![image](https://user-images.githubusercontent.com/117920423/211672035-cc26c0b6-265d-49e8-b3d5-612ca4648393.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211978427-b44197be-d00a-4dac-943e-4635603167bd.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211672115-a308c5ff-3c08-487f-a18c-e58dba65bbee.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/211672148-84f67666-01c9-4ecb-b647-1e0a052f7009.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211978481-c5535a98-680a-4562-910d-eba95f395cf6.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211672211-0fd8f401-9fc6-426b-8de4-6d3c514be4f4.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211978524-b171c962-fa0d-4346-af12-64be987c8d2c.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/211672307-e5901518-e71a-4c44-84b0-a7d265a86960.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211978653-f05c542c-125d-4271-a521-f57b4a8dc178.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211672345-82e5bf8e-0ab1-4ef4-ac34-093317d4b69d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211979189-446a9d04-26b1-44de-b9e1-bc4794ed217a.png)
 
 SECCIÓN 11–10 El osciloscopio
 
