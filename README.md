@@ -144,25 +144,42 @@ SECCIÓN 12–1 El capacitor básico
 
 ![image](https://user-images.githubusercontent.com/117920423/211673486-2461f7ba-51f6-4b7f-b3c2-1b5535bdc5bf.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211981283-2562d91c-467c-4438-a545-ba7e9ce70676.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211673564-25e00eca-6a71-436b-b8c4-862b093bc6ae.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211981313-46b8d7ba-f24d-4022-9158-5a7a6b7cc442.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/211673629-8d3aeb85-c227-40c1-b844-f80ecb81c90f.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211981347-fdba2725-ce46-4a94-a318-a6e0f0b488aa.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211673656-c94ae74a-8587-481a-83cc-38cb8ee6c5ed.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211981392-030bd629-f216-4e54-9607-e74363212554.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/211673712-59b1bac2-1bcc-4bea-b22c-732cc138b254.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211981438-1061bbcf-8b31-48e8-afa0-9a20920a5b1f.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211673785-7fb24ceb-ecc9-4566-ac7b-4550f34a21dc.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211981466-96cd9dc3-4b25-4f87-898b-11734a675514.png)
 
 SECCIÓN 12–2 Tipos de capacitores
 
 ![image](https://user-images.githubusercontent.com/117920423/211673882-0d179aa0-16df-4ea1-afb7-6a742482e332.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211981537-33588880-54fa-4da4-a2d3-11c33aeec6fb.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211673923-5a058887-ae9e-45e9-8b28-01062c102a4f.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211982035-3a40e40e-5cf0-4ba6-8fa4-c85099d55a31.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/211674007-6cf78c4f-4fed-427a-ac20-ffe123dc58ad.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/211674040-3f887263-1b95-4f09-9560-ec639c3635b9.png)
+
 
 SECCIÓN 12–3 Capacitores en serie
 
