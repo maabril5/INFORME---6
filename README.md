@@ -50,7 +50,11 @@ SECCIÓN 11–4 Medición angular de una onda seno
 
 ![image](https://user-images.githubusercontent.com/117920423/211669338-fb61d9ee-4423-4cb0-ab06-e3affc1484e2.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211974998-4ad2a77c-0d04-4f68-bd59-c0172234cb5e.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211669571-cf800ec8-ff16-48ba-b5d0-115b572461fc.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211975022-03ccf416-6d85-4fac-b561-3118591b9d10.png)
 
 SECCIÓN 11–5 La fórmula de la onda seno
 
