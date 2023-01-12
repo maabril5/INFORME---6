@@ -186,9 +186,19 @@ SECCIÓN 12–3 Capacitores en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/211674159-93851e1d-8775-4511-9d4a-7d4336c38f0f.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211982942-d47ae302-c93b-4024-a9da-7b6c0ae67fa1.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211674260-26677bad-707c-43b7-803b-eaf2f14e9df9.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211982980-a2d23fed-01dc-4230-8b0a-5986e269a09f.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211983011-1d837a32-3d6f-4041-9238-3822f56735d9.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211983035-90990b84-22ac-426f-be8c-28b033e0f17e.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211674331-30d35bf7-dfc3-42fc-aeec-ba0d64b263e3.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211983062-9c5a1bd6-27ce-4aa7-bcd5-538442d58586.png)
 
 SECCIÓN 12–4 Capacitores en paralelo
 
@@ -196,25 +206,41 @@ SECCIÓN 12–4 Capacitores en paralelo
 
 ![image](https://user-images.githubusercontent.com/117920423/211674547-e857e4c0-e644-4580-8beb-e6958600e583.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211983396-cb864f26-4efb-4e6f-b7e7-11b1f23ca9da.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211674625-cdde4b67-a848-4865-950f-513df17bc090.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/211674691-1d7d729c-5347-4b5b-a21f-950d0cdbc789.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211983305-8e0a3937-6b0e-45a8-b115-0e92dec8d5af.png)
 
 SECCIÓN 12-5  Capacitores en circuitos de cd
 
 ![image](https://user-images.githubusercontent.com/117920423/211675697-fb41ccbf-bf24-42de-993a-349a0bd154ba.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211983550-59cedc88-a642-4d4b-a20c-88df7d1d1535.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211676173-5b067f77-01d1-4d90-b60b-b71388f18b75.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211983584-0dd8800b-7049-4923-a128-214fafb6d44c.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/211676432-62803b27-35f3-421d-8b35-96c06dae0d8a.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211983609-380c4b11-8850-45a3-89cc-c6370a5a4e18.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211676471-d5354ad6-e395-4395-a179-5092f1c48e94.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211983749-e78e8c3b-b2c2-4204-8f5f-7d1051b97e81.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/211676516-99ed5e30-c0d5-4e9e-927a-8a7770822993.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/211676557-0af582e3-8a70-47d6-9b91-68f8a564eef4.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211984000-5f58c662-2a98-44da-9b61-c5e550b882fd.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211676642-656dc04f-57d0-4d8b-9c0a-bcac3399a271.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211984034-27106f60-7be1-4e0a-bd2f-69b95b716a79.png)
 
 SECCIÓN 12-6  Capacitores en circuitos de ca
 
