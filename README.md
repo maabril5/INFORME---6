@@ -246,23 +246,41 @@ SECCIÓN 12-6  Capacitores en circuitos de ca
 
 ![image](https://user-images.githubusercontent.com/117920423/211676909-6a512304-e09c-48d2-8135-ad2c94fc7845.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211984196-3632c80d-c6ea-46a2-82b5-73c3065c1d95.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211676975-d35a1da5-2648-4b7a-9c20-948ba357a21a.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/211677022-558dd4d6-1e2e-4d20-9d95-ee1d03a14133.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211984221-21bebfc9-3323-4f74-963b-dfb695a3ef6e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211984243-25d63cda-974f-47c4-bef0-cede1036736b.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211677059-dfd650eb-48cc-4364-9d98-db926a3b3cbe.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211984439-8ed8fbdd-e2e9-4473-b974-11b9e8b2d546.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/211677133-707a4cff-bc1c-40d6-8e78-3509253644d1.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211984608-0aea2e65-153a-4fbe-9d98-f40714ea1193.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211984653-feecaa6b-1c12-4103-9e87-c6b65facd7fa.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211677187-c7e7c59f-55e5-4235-91c6-7eb921985096.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211984681-5d11c3af-1a52-4ac2-8994-85f386c70233.png)
 
 SECCIÓN 12-7  Aplicaciones de los capacitores
 
 ![image](https://user-images.githubusercontent.com/117920423/211677390-4911d128-6674-4698-a153-842da45a40d9.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211984764-0879b1ad-90e3-4d24-9cc5-e3afccbac330.png)
+
 SECCIÓN 12-8  Circuitos de Capacitor conmutado
 
 ![image](https://user-images.githubusercontent.com/117920423/211677519-18f22a82-765e-4853-8c21-66f20672723d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211984862-67181a88-c105-40e1-9c81-d2f062243a6d.png)
 
 
 
