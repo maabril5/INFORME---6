@@ -76,13 +76,23 @@ SECCIÓN 11–6 Introducción a los fasores
 
 ![image](https://user-images.githubusercontent.com/117920423/211671053-83e6af63-f3c6-4a22-b197-71af2a0dd91b.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211976241-7789f832-72c2-47a1-9947-ba75bacc75cd.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211671146-a5ce0d0d-4cde-43d2-a406-f87945e902fa.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211976404-a35f4c62-1be4-4eff-a870-ad15f7b62143.png)
 
 SECCIÓN 11–7 Análisis de circuitos de ca
 
 ![image](https://user-images.githubusercontent.com/117920423/211671623-710e113f-beb4-41fa-8bdd-0b93cb050068.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211976537-64ff9ef7-e468-46f8-9b07-04d4ff69a450.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211976557-3f2affd4-0f62-4944-8ea9-81c209a46b73.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211671721-c282d368-88da-486d-bee1-e3260d617a18.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211976600-c73841f6-86a9-415a-9571-2515886669a5.png)
 
 SECCIÓN 11–8 Voltajes superpuestos de cd y de ca
 
