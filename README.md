@@ -134,6 +134,10 @@ SECCIÓN 11–10 El osciloscopio
 
 ![image](https://user-images.githubusercontent.com/117920423/211672991-e00ed60f-c332-4a52-b343-329ee6ee7f0c.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211979789-7e720434-f38f-42e6-b138-5b45cedc9d80.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211979888-23dede9f-121c-424e-914f-790acf96bb44.png)
+
 CAPÍTULO 12.
 
 SECCIÓN 12–1 El capacitor básico
