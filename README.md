@@ -98,7 +98,11 @@ SECCIÓN 11–8 Voltajes superpuestos de cd y de ca
 
 ![image](https://user-images.githubusercontent.com/117920423/211671846-47f37ccf-3e46-488c-912b-fa8f1a1e24f4.png)
 
+![image](https://user-images.githubusercontent.com/117920423/211976879-12772a28-9c5a-41de-84b3-744c239ee8da.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/211671948-42c962a6-39a9-42c0-a16a-6ae1632ece68.png)
+
+![image](https://user-images.githubusercontent.com/117920423/211977519-a57d1fcf-d3b5-46ed-8056-ad6be3590636.png)
 
 SECCIÓN 11–9 Formas de onda no sinusoidales
 
