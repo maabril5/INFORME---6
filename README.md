@@ -282,8 +282,21 @@ SECCIÓN 12-8  Circuitos de Capacitor conmutado
 
 ![image](https://user-images.githubusercontent.com/117920423/211984862-67181a88-c105-40e1-9c81-d2f062243a6d.png)
 
+4. CONCLUSIONES.
+
+- Se compredió las formas de expresar el valor de una onda seno en función de su magnitud de voltaje o de su magnitud de corriente
+
+- Pudimos comprender los capacitores, que son dispositivos que tienen distintos tamaños, formas, y que son capaces de almacenar energía, son usados en varias aplicaciones relacionadas a la electricidad.
+
+- En el video presentado pudimos desarrollar conocimientos de los aprendido con nuevos temas a exponer y ejercicios.
+
+5. VIDEO.
 
 
+
+6. BIBLIOGRAFÍA.
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
 
 
 
