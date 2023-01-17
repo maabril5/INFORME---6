@@ -16,6 +16,18 @@ Haber entendido los conceptos presentados en el capítulo 11 y 12 referente a la
 
 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/117920423/212786255-140ce4de-4535-4b5e-bd16-34b12ccdc01c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212786287-4c7d5f8c-3f91-4153-ac83-47cb36568c13.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212786318-77389737-0e77-470e-8a4a-4e64db4ec202.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212786344-2054a404-152d-46a1-93ba-bda7a746089c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212786368-39f62571-ad97-4bcf-863b-b0b86ffc5980.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212786414-11d98de8-41bd-4dac-b7f6-c230fcb465f2.png)
+
 3. EJERCICIOS DE APRENDIZAJE.
 
 CAPÍTULO 11.
