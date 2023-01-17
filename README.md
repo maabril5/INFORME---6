@@ -304,11 +304,15 @@ SECCIÓN 12-8  Circuitos de Capacitor conmutado
 
 5. VIDEO.
 
-
+https://youtu.be/xmqrspXnhrc
 
 6. BIBLIOGRAFÍA.
 
-Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
+- Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
+
+- (S/f). Digikey.com. Recuperado el 17 de enero de 2023, de https://www.digikey.com/es/articles/fundamentals-understand-the-characteristics-of-capacitor-types
+
+- Forma de onda sinusoidal. (2018, junio 2). Electronica Lugo. https://electronicalugo.com/forma-de-onda-sinusoidal/
 
 
 
